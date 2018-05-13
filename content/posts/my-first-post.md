@@ -1,7 +1,6 @@
 ---
 title: "My First Post"
 date: 2018-05-13T20:45:04+02:00
-draft: true
 ---
 
 # Dit is mijn eerste test post
