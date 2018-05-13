@@ -1,4 +1,5 @@
 baseURL = "https://condescending-shaw-5d2ecc.netlify.com"
-languageCode = "en-us"
+languageCode = "nl"
 title = "My New Hugo Site"
-theme = "bootstrap"
+rssLimit = "20"
+theme = "natrium"
