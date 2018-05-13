@@ -7,3 +7,6 @@
 [submodule "themes/natrium"]
 	path = themes/natrium
 	url = https://github.com/mobybit/hugo-natrium-theme
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper/
