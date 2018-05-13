@@ -1,4 +1,4 @@
 baseURL = "https://condescending-shaw-5d2ecc.netlify.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "bootstrap"
