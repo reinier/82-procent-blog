@@ -1,5 +1,5 @@
 ---
-title: "82% Denkfouten Referenties Leven"
+title: "Denkfouten Referenties Leven"
 date: 2018-05-14T16:40:00+02:00
 ---
 
