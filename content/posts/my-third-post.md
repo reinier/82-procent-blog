@@ -1,6 +1,6 @@
 ---
 title: "My Third Post"
-date: 2018-05-14 16:20
+date: 2018-05-14T16:20:00+02:00
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet leo ac lacus luctus commodo eu ac orci. Cras in lobortis sapien, ac dictum justo. Nunc quis risus mauris. Aliquam lacinia cursus turpis, eu faucibus diam mollis nec. Praesent vulputate lacus et consectetur finibus. Nullam volutpat nisl fringilla venenatis bibendum. Nullam molestie leo nec quam varius consequat. Etiam interdum nulla aliquam, venenatis orci eget, commodo turpis. Fusce nisl sem, fringilla nec nulla quis, sodales consectetur eros. Suspendisse porta sapien vitae blandit posuere.
