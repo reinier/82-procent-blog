@@ -1,5 +1,5 @@
 baseURL = "https://condescending-shaw-5d2ecc.netlify.com/"
 languageCode = "nl"
 title = "My New Hugo Site"
-rssLimit = "20"
+rssLimit = "1"
 theme = "paper"
