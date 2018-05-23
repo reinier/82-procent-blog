@@ -1,4 +1,4 @@
-baseURL = "https://nieuwsbrieven.82procent.nl/"
+baseURL = "https://82-procent-dev.netlify.com/"
 languageCode = "nl"
 title = "82%"
 rssLimit = "1"
