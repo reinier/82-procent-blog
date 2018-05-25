@@ -1,7 +1,9 @@
 ---
 title: "Ongemakkelijk Vulkaan Reading"
-date: 2018-05-24T19:40:00+02:00
+date: 2018-05-25T07:40:00+02:00
 ---
+
+Als [geestelijk vader](https://twitter.com/Schellevis/status/999894445985181697) kan deze #nospon plug niet achterblijven: [Joost Schellevis](https://twitter.com/Schellevis) start samen met [Xander Bouwman](https://twitter.com/xbouwman) vanaf vandaag [de nieuwsbrief Cybernieuwtjes](https://cybernieuwtjes.nl). Uitermate relevant op [GDPR apocalypse day](https://www.mirror.co.uk/interactives/its-gdpr-day-heres-15-12588804). Schrijf je in zou ik zeggen.
 
 **Ongemakkelijk** — Vorige week had ik het al over [Hello Internet](http://www.hellointernet.fm) en de eerste drie minuten van [de nieuwste episode #102: Secret Cinema](http://www.cgpgrey.com/blog/hi-102-secret-cinema) gaat over een awkward high five en is echt hilarisch want je _voelt_ de ongemakkelijkheid. Ook enorm om te lachen is [de video “VVD TV” van klikbeet](https://youtu.be/K60yFKhH23A) omdat het ongemakkelijk dicht bij de waarheid komt. Wat dan weer het tegenovergestelde van ongemakkelijkheid is is [deze fietsband die je niet hoeft op te pompen](https://www.lindanieuws.nl/snacks/lekke-band-voorkomen-luchtloze-fietsband/).
 
