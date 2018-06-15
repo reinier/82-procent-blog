@@ -1,4 +1,7 @@
-# 82% Ideeën Perfect Alien
+---
+title: "Ideeën Perfect Alien"
+date: 2018-06-15T09:30:00+02:00
+---
 
 82% verschijnt _een klein maandje even niet_ maar na die tijd is de 82% weer voor 100% aanwezig. En voordat je je gaat vervelen heb ik een dubbeldikke zomereditie samengesteld. 
 
