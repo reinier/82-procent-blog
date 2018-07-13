@@ -13,7 +13,7 @@ Iets waar je wat van kunt opsteken is het artikel [Stop met geld weggooien: inte
 
 [Affinity Designer Debuts on iPad as a Full-Featured Graphic Design Tool](https://www.macstories.net/news/affinity-designer-debuts-on-ipad-as-a-full-featured-graphic-design-tool/). Het is geen app welke ik zal gebruiken maar ik vind de trend van apps die op iOS (bijna) net zoveel kunnen als op de Mac echt geweldig. 
 
-### Dingen op te kijken
+### Dingen om te kijken
 
 🏠 [Helemaal verliefd op dit tiny house geworden](https://www.youtube.com/watch?v=jPBDPcqfCwA)
 
@@ -25,7 +25,7 @@ Iets waar je wat van kunt opsteken is het artikel [Stop met geld weggooien: inte
 
 🗑 [Plastic Pollution: How Humans are Turning the World into Plastic](https://www.youtube.com/watch?v=RS7IzU2VJIQ)
 
-### Dingen op te lezen
+### Dingen om te lezen
 
 🤷‍♂️ [HBO’s next year will be ‘like childbirth,’ AT&T media CEO tells employees](https://www.theverge.com/2018/7/9/17549048/att-hbo-plans-after-merger)
 
