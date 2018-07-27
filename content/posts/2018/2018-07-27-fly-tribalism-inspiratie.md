@@ -11,7 +11,7 @@ date: 2018-07-27T09:30:00+02:00
 - [2. The Golden Age](https://www.bbc.co.uk/programmes/b0b42wwr)
 - [3. Why Belgium?](https://www.bbc.co.uk/programmes/b0b4zxcl)
 
-**Inspiratie** — [Good Monday! is een nieuwsbrief](https://www.patrickloonstra.nl/goodmonday/) om je maandag goed mee te beginnen. Patrick Loonstra stuurt je een fijn lijstje met links waar je wat aan hebt. Ik vind het altijd erg fijn om ‘m even door te nemen en er zelfs inspiratie voor de 82% op te doen. Nog zo’n fijne nieuwsbrief is [Werk Slim van Rick Pastoor](https://www.getrevue.co/profile/werkslim) over het uiterste halen uit de professionele kant van je leven.
+**Inspiratie** — [Good Monday! is een nieuwsbrief](https://www.patrickloonstra.nl/goodmonday/) om je maandag goed mee te beginnen. Patrick Loonstra stuurt je een fijn lijstje met links waar je wat aan hebt. Ik vind het altijd erg fijn om ‘m even door te nemen en er zelfs inspiratie voor 82% op te doen. Nog zo’n fijne nieuwsbrief is [Werk Slim van Rick Pastoor](https://www.getrevue.co/profile/werkslim) over het uiterste halen uit de professionele kant van je leven.
 
 ### En verder…
 
