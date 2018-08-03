@@ -1,0 +1,12 @@
+name = "Fortytwopercent"
+license = "MIT"
+licenselink = "https://github.com/reinier/fortytwopercent/blob/master/LICENSE"
+description = "Nice, clean, simple Hugo blog theme"
+homepage = "https://github.com/reinier/fortytwopercent/"
+tags = ["Responsive", "Simple", "Clean", "Light", "White", "Blog"]
+features = ["Responsive", "One Column", "Blog"]
+min_version = "0.1"
+
+[author]
+  name = "reinier"
+  homepage = "http://reinier.io/"
