@@ -1,6 +1,5 @@
 ---
 title: "Integriteit Mysterious Karamelklontje"
-date: 2018-08-03T09:00:00+02:00
 ---
 
 Het is weer tijd voor een korte break. Ergens in september ben ik weer helemaal terug. Hier wat losse flodders die nog op mijn backlog stonden zodat er met een schone lei begonnen kan worden als de hittegolven definitief voorbij zijn.

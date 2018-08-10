@@ -1,6 +1,5 @@
 ---
 title: "Dinosaurus Samurai Prioriteit"
-date: 2018-07-20T09:30:00+02:00
 ---
 
 Deze week namen Wietse en ik voorlopig de laatste aflevering van de Appels en Peren Show van de zomer op. Het werd een gezellige melige zomeraflevering met een diversiteit aan onderwerpen. Luister hem hier ‘[Dinosaurus Henk op de maan brute forcen](http://appelsenperenshow.nl/aflevering/2018/7/18/158-dinosaurus-henk-op-de-maan-brute-forcen)’ of gewoon in je podcast app. We zijn ook nog eens [genomineerd voor een Dutch Podcast Award waar je _nu_ op kunt stemmen](https://fdmg.nl/dpa/). We zijn genomineerd als podcast én als ‘beste host’, hartstikke leuk natuurlijk!

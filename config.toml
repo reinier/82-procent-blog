@@ -3,3 +3,6 @@ languageCode = "nl"
 title = "82%"
 rssLimit = "1"
 theme = "paper"
+
+[frontmatter]
+date  = [":filename", ":default"]
